@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "Convergence-Redistributing Multi-Layer Probability Distribution Control Prompting (CMDP)"
+message: "If you use this work, please cite the preprint below."
+type: software
+authors:
+  - family-names: "O"
+    given-names: "Masahiko"
+date-released: 2026-05-05
+license: CC-BY-4.0
+repository-code: "https://github.com/Masahiko-O/Convergence-Multi-Layer-Distribution-Prompting"
+url: "https://doi.org/10.5281/zenodo.19974793"
+identifiers:
+  - description: "The DOI of the original Zenodo preprint."
+    type: doi
+    value: "10.5281/zenodo.19974793"
+keywords:
+  - "prompt engineering"
+  - "probability distribution control"
+  - "convergence redistribution"
+  - "liberation-exploration syntax"
+  - "multi-layer bias"
+  - "incongruity-driven amplification"
+  - "typicality bias mitigation"
+  - "autonomous expression"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "O"
+      given-names: "Masahiko"
+  title: "Convergence-Redistributing Multi-Layer Probability Distribution Control Prompting (CMDP)"
+  year: 2026
+  month: 5
+  doi: "10.5281/zenodo.19974793"
+  url: "https://doi.org/10.5281/zenodo.19974793"
+  publisher:
+    name: "Zenodo"
